@@ -22,7 +22,7 @@ namespace OronganLeandroUlysisEPHRS
     class Program
     {
 
-        const string AppTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM";
+        const string AppTitle = "EPHRS - Feature Branch Version";
 
         static List<Employee> employees = new List<Employee>();
         static int nextId = 1001;
