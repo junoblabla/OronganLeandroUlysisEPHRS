@@ -22,7 +22,8 @@ namespace OronganLeandroUlysisEPHRS
     class Program
     {
 
-        const string AppTitle = "EPHRS - Main Branch v2";
+ 
+        const string AppTitle = "EPHRS - Merged Version";
 
         static List<Employee> employees = new List<Employee>();
         static int nextId = 1001;
