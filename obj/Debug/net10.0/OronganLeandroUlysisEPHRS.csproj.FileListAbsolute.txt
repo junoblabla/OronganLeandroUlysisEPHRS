@@ -1,0 +1,14 @@
+C:\Users\User\OronganLeandroUlysisEPHRS\bin\Debug\net10.0\OronganLeandroUlysisEPHRS.exe
+C:\Users\User\OronganLeandroUlysisEPHRS\bin\Debug\net10.0\OronganLeandroUlysisEPHRS.deps.json
+C:\Users\User\OronganLeandroUlysisEPHRS\bin\Debug\net10.0\OronganLeandroUlysisEPHRS.runtimeconfig.json
+C:\Users\User\OronganLeandroUlysisEPHRS\bin\Debug\net10.0\OronganLeandroUlysisEPHRS.dll
+C:\Users\User\OronganLeandroUlysisEPHRS\bin\Debug\net10.0\OronganLeandroUlysisEPHRS.pdb
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.AssemblyInfoInputs.cache
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.AssemblyInfo.cs
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.csproj.CoreCompileInputs.cache
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.dll
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\refint\OronganLeandroUlysisEPHRS.dll
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.pdb
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\OronganLeandroUlysisEPHRS.genruntimeconfig.cache
+C:\Users\User\OronganLeandroUlysisEPHRS\obj\Debug\net10.0\ref\OronganLeandroUlysisEPHRS.dll
